@@ -3,7 +3,8 @@ This project contains example code used to crop a video file using FFmpeg and FF
 
 To use this code you should follow the below steps
 
-1. Add dependencies for FFmpeg 
+1. Add dependencies for FFmpeg
+
     implementation 'nl.bravobit:android-ffmpeg:1.1.5'
 
 2. Before you start cropping, you should initialize FFmpeg and FFprobe using loadFFMpegBinary() and loadFFprobeBinary() methods
