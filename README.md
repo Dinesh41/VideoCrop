@@ -6,7 +6,7 @@ To use this code you should follow the below steps
 1. Add dependencies for FFmpeg 
     implementation 'nl.bravobit:android-ffmpeg:1.1.5'
 
-2.Before you start cropping, you should initialize FFmpeg and FFprobe using loadFFMpegBinary() and loadFFprobeBinary() methods
+2. Before you start cropping, you should initialize FFmpeg and FFprobe using loadFFMpegBinary() and loadFFprobeBinary() methods
 
 3. Then you can execute commands whatever you want
 
